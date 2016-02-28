@@ -38,7 +38,7 @@ Some points of interest:
 COPYING 
 -------
 
-Copyright 2016 Martin Schröder <mkschreder.uk@gmail.com>
-Copyright [ original authors of driver code ]
+- Copyright 2016 Martin Schröder <mkschreder.uk@gmail.com>
+- Copyright [ original authors of driver code ]
 
 You may use this code according to their original licenses. 
